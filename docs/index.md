@@ -17,6 +17,7 @@ title: Top
   - Scala
   - Haskell
   - Rust
+  - Brainf\*\*k
 - ゲーム
   - Dynamix
   - Deemo
@@ -48,6 +49,7 @@ title: Top
   - C++
   - Dynamix
   - Deemo
+  - Brainf\*\*k
 - ある程度できる
   - Scala
   - Minecraft
