@@ -48,7 +48,7 @@ title: Top
   - Minecraft
   - Terraria
 
-#### リンク
+### リンク
 * Twitter: [@net_stouma915](https://twitter.com/net_stouma915)
 * GitHub: [stouma915](https://github.com/stouma915)
 * Steam: [stouma915](https://steamcommunity.com/profiles/76561199242758778)
