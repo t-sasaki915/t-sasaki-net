@@ -26,7 +26,10 @@ title: Top
   - Apex Legends
 - 計算機科学
   - 型理論
+  - 純粋関数
   - モナド
+    - IO
+    - Either
 - 数学
   - λ計算
 - その他
