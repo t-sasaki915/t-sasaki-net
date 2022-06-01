@@ -39,6 +39,7 @@ title: Top
   - nginx
   - i3wm
   - vim
+  - rxvt-unicode
 - その他
   - Intel
   - セキセイインコ
