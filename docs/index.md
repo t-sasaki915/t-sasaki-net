@@ -54,7 +54,7 @@ title: Top
 * Steam: [stouma915](https://steamcommunity.com/profiles/76561199242758778)
 * Geartics: [net_stouma915](https://www.geartics.com/net_stouma915)
 
-### 使用デバイス
+### 使用PC
 - 自作PC
   - CPU: Core i9 10900X
   - RAM: 128GB DDR4
