@@ -53,6 +53,7 @@ title: Top
   - Minecraft
   - Terraria
   - Arch Linux
+  - CentOS
   - i3wm
 
 ### リンク
