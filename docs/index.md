@@ -31,6 +31,7 @@ title: Top
   - λ計算
 - その他
   - Intel
+
 #### 技術
 - 初心者レベル
   - Haskell
@@ -46,11 +47,13 @@ title: Top
   - Scala
   - Minecraft
   - Terraria
+
 #### リンク
 * Twitter: [@net_stouma915](https://twitter.com/net_stouma915)
 * GitHub: [stouma915](https://github.com/stouma915)
 * Steam: [stouma915](https://steamcommunity.com/profiles/76561199242758778)
 * Geartics: [net_stouma915](https://www.geartics.com/net_stouma915)
+
 ### 使用デバイス
 - 自作PC
   - CPU: Core i9 10900X
