@@ -47,9 +47,10 @@ title: Top
   - TypeScript
   - Rust
   - C++
+  - Brainf\*\*k
   - Dynamix
   - Deemo
-  - Brainf\*\*k
+  - Windows Server
 - ある程度できる
   - Scala
   - Minecraft
