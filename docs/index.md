@@ -34,6 +34,11 @@ title: Top
 - 数学
   - λ計算
   - 関数
+- ソフトウェア
+  - zsh
+  - nginx
+  - i3wm
+  - vim
 - その他
   - Intel
   - セキセイインコ
