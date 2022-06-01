@@ -32,6 +32,7 @@ title: Top
     - Either
 - 数学
   - λ計算
+  - 関数
 - その他
   - Intel
   - セキセイインコ
