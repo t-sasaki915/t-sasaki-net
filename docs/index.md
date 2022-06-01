@@ -52,6 +52,8 @@ title: Top
   - Scala
   - Minecraft
   - Terraria
+  - Arch Linux
+  - i3wm
 
 ### リンク
 * Twitter: [@net_stouma915](https://twitter.com/net_stouma915)
