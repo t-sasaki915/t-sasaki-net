@@ -3,29 +3,10 @@
   <head>
     <meta charset="UTF-8">
     <title>{{ page.title }} - stouma915.net</title>
-    <script>
-      const BASE_URL = "https://github.com/stouma915/stouma915-net/blob/main/docs/";
-
-      window.addEventListener("load", () => {
-        const improveLink = document.getElementById("improveThisPage");
-
-        let hrefUrl = BASE_URL;
-
-        const loc = window.location;
-        if (loc.startsWith("https://stouma915.github.io")) {
-          const locSplitted = loc.split("/");
-          locSplitted.shift();
-          const last = locSplitted[locSplitted.length - 1];
-          hrefUrl += last == "" ? "index.md" : last.replaceAll(".html", ".md");
-        }
-
-        improveLink.href = hrefUrl;
-      });
-    </script>
   </head>
   <body>
     {{ content }}
     <br>
-    <p>This site is open source. <a href="#" id="improveThisPage">Improve this page.</a></p>
+    <p>This site is open source. <a href="https://github.com/stouma915/stouma915-net/">Improve this site.</a></p>
   </body>
 </html>
