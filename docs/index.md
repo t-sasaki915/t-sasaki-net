@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: stouma915-net
 title: Top
 ---
 
