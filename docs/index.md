@@ -9,7 +9,8 @@ title: Top
 名前: stouma915(Sasaki Touma)<br>
 誕生日: 9/15<br>
 居住: 宮城県仙台市<br>
-属性: オタク・音ゲーマー・高校生<br>
+属性: オタク・音ゲーマー<br>
+所属: 高校
 #### 好き
 - Linux
   - Arch Linux
