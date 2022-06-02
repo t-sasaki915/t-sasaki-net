@@ -80,7 +80,7 @@ title: Top
   - GPU: NVIDIA Quadro RTX 5000
   - SSD: 1TB NVMe, 1TB SATA
   - OS: Arch Linux, Windows 10 Pro
-- サブPC
+- 自作PC
   - CPU: Core i3 12100F
   - RAM: 16GB DDR4
   - GPU: NVIDIA GeForce GT 710
@@ -92,7 +92,7 @@ title: Top
   - GPU: Intel Iris Xe Graphics
   - SSD: 1TB NVMe, 500GB NVMe
   - OS: Arch Linux, Windows 10 Home
-- サーバー
+- 自作サーバー
   - CPU: Core i9 10900X
   - RAM: 128GB DDR4
   - GPU: NVIDIA GeForce GT 710
