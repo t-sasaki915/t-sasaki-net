@@ -9,7 +9,7 @@ Name: stouma915(Sasaki Touma)<br>
 Birthday: September 15<br>
 Lives in: Sendai, Miyagi, Japan<br>
 Attributes: Geek, Rhythm gamer<br>
-Belong to: High School
+Belong to: High School<br>
 Languages: Japanese(native), English(little)
 #### Favorites
 - Linux
