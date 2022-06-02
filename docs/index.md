@@ -19,12 +19,13 @@ title: Top
   - Rust
   - Brainf\*\*k
 - ゲーム
-  - Dynamix
-  - Deemo
-  - OverRapid
   - Terraria
   - Minecraft
   - Apex Legends
+  - 音ゲー
+    - Dynamix
+    - Deemo
+    - OverRapid
 - 計算機科学
   - 型理論
   - 純粋関数
@@ -54,16 +55,16 @@ title: Top
   - Rust
   - C++
   - Brainf\*\*k
+  - Windows Server
   - Dynamix
   - Deemo
-  - Windows Server
 - ある程度できる
   - Scala
-  - Minecraft
-  - Terraria
   - Arch Linux
   - CentOS
   - i3wm
+  - Minecraft
+  - Terraria
 
 ### リンク
 * Twitter: [@net_stouma915](https://twitter.com/net_stouma915)
