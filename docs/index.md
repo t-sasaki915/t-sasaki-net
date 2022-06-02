@@ -63,6 +63,7 @@ title: Top
   - Arch Linux
   - CentOS
   - i3wm
+  - LANケーブル作成(Cat5e)
   - Minecraft
   - Terraria
 
