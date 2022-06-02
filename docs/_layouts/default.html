@@ -2,7 +2,7 @@
 <html lang="ja">
   <head>
     <meta charset="UTF-8">
-    <title>{{ page.title }} - stouma915.net</title>
+    <title>stouma915.net</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@350;600&amp;display=swap">
@@ -11,6 +11,11 @@
         font-family: 'Noto Sans JP', sans-serif;
       }
     </style>
+    <script>
+      const pageTitle = "{{ page.title }}";
+      if (pageTitle != "Top")
+        document.title = `${pageTitle} - stouma915.net`;
+    </script>
   </head>
   <body>
     {{ content }}
