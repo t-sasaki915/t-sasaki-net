@@ -56,6 +56,7 @@ Languages: Japanese(native), English(US, just a little)
   - Rust
   - C++
   - Brainf\*\*k
+  - bash script
   - Windows Server
   - Dynamix
   - Deemo
