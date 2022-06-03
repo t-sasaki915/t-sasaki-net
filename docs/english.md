@@ -103,7 +103,7 @@ Languages: Japanese(native), English(US, just a little)
   - SSD: 1TB SATA, 2TB SATA
   - HDD: 8TB
   - OS: CentOS 7
-- Rack-mount server
+- Rack-Mount Server
   - CPU: Dual Xeon E5-2650 v2
   - RAM: 32GB DDR3 ECC
   - HDD: 600GB SAS x8
