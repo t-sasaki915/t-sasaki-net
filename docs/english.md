@@ -46,7 +46,7 @@ Languages: Japanese(native), English(US, just a little)
   - Intel
   - Budgie
 
-#### Skill
+#### Skills
 - Beginner Level
   - Haskell
   - Apex Legends
