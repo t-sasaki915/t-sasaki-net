@@ -103,6 +103,11 @@ title: Top
   - SSD: 1TB SATA, 2TB SATA
   - HDD: 8TB
   - OS: CentOS 7
+- ラックマウントサーバー
+  - CPU: デュアル Xeon E5-2650 v2
+  - RAM: 32GB DDR3
+  - HDD: 600GB SAS x8
+  - OS: Windows Server 2012 R2 Standard
 <br>
 
 [English](english.html)
