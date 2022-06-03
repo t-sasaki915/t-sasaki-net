@@ -100,7 +100,6 @@ title: Top
   - SSD: 1TB SATA, 2TB SATA
   - HDD: 8TB
   - OS: CentOS 7
-
 <br>
 
 [English](english.html)
