@@ -100,7 +100,6 @@ Languages: Japanese(native), English(US, just a little)
   - SSD: 1TB SATA, 2TB SATA
   - HDD: 8TB
   - OS: CentOS 7
-
 <br>
 
 [日本語](/)
