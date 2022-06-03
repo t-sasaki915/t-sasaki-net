@@ -42,8 +42,10 @@ Languages: Japanese(native), English(US, just a little)
   - i3wm
   - vim
   - rxvt-unicode
+- CPU
+  - Intel Core
+  - Intel Xeon
 - Other
-  - Intel
   - Budgie
 
 #### Skills
@@ -101,6 +103,11 @@ Languages: Japanese(native), English(US, just a little)
   - SSD: 1TB SATA, 2TB SATA
   - HDD: 8TB
   - OS: CentOS 7
+- Rack-mount server
+  - CPU: Dual Xeon E5-2650 v2
+  - RAM: 32GB DDR3 ECC
+  - HDD: 600GB SAS x8
+  - OS: Windows Server 2012 R2 Standard
 <br>
 
 [日本語](/)
