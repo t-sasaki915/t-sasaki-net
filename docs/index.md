@@ -42,8 +42,10 @@ title: Top
   - i3wm
   - vim
   - rxvt-unicode
+- CPU
+  - Intel Core
+  - Intel Xeon
 - その他
-  - Intel
   - セキセイインコ
 
 #### 技術
