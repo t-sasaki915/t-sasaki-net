@@ -14,29 +14,29 @@ Languages: Japanese(native), English(US, just a little)
 #### Favorites
 - Linux
   - Arch Linux
-- Programming Language
+- Programming Languages
   - Scala
   - Haskell
   - Rust
   - Brainf\*\*k
-- Game
+- Games
   - Terraria
   - Minecraft
   - Apex Legends
-  - Rhythm Game
+  - Rhythm Games
     - Dynamix
     - Deemo
     - OverRapid
-- Computer Science
+- Computer Sciences
   - Type Theory
   - Pure Function
   - Monad
     - IO
     - Either
-- Math
+- Maths
   - λ-Calculus
   - Function
-- Software
+- Softwares
   - zsh
   - nginx
   - i3wm
@@ -45,8 +45,8 @@ Languages: Japanese(native), English(US, just a little)
 - CPU
   - Intel Core
   - Intel Xeon
-- Other
-  - Budgie
+- Others
+  - Budgies
 
 #### Skills
 - Beginner Level
