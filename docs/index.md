@@ -72,7 +72,7 @@ title: Top
   - Terraria
 
 ### リンク
-* Twitter: [@net_stouma915](https://twitter.com/net_stouma915)
+* Twitter: [net_stouma915](https://twitter.com/net_stouma915)
 * GitHub: [stouma915](https://github.com/stouma915)
 * Steam: [stouma915](https://steamcommunity.com/profiles/76561199242758778)
 * Geartics: [net_stouma915](https://www.geartics.com/net_stouma915)
