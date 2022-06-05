@@ -8,7 +8,7 @@ title: Top
 Name: stouma915(Sasaki Touma)<br>
 Birthday: September 15<br>
 Lives in: Sendai, Miyagi, Japan<br>
-Attributes: Geek, Rhythm gamer<br>
+Attributes: Geek, Rhythm Gamer<br>
 Belong to: High School<br>
 Languages: Japanese(native), English(US, just a little)
 #### Favorites
