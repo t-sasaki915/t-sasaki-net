@@ -43,8 +43,7 @@ Languages: Japanese(native), English(US, just a little)
   - vim
   - rxvt-unicode
 - CPU
-  - Intel Core
-  - Intel Xeon
+  - Intel
 - Others
   - Budgies
 
