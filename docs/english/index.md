@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Top
+lang: en
 ---
 
 ## stouma915.net
