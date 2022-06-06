@@ -43,8 +43,7 @@ title: Top
   - vim
   - rxvt-unicode
 - CPU
-  - Intel Core
-  - Intel Xeon
+  - Intel
 - その他
   - セキセイインコ
 
