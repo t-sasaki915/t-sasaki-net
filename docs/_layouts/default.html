@@ -15,12 +15,20 @@
       const pageTitle = "{{ page.title }}";
       if (pageTitle != "Top")
         document.title = `${pageTitle} - stouma915.net`;
+
+      window.addEventListener("load", () => {
+        const langElem = document.getElementById("lang");
+
+        const lang = "{{ page.lang }}";
+        const jaPage = "{{ page.ja_page }}";
+        const enPage = "{{ page.en_page }}";
+      });
     </script>
   </head>
   <body>
     {{ content }}
     <br>
-    <p>{{ page.lang }}</p>
+    <a id="lang" href="#"></a>
     <p>
       This site is licensed under the <a href="https://github.com/stouma915/stouma915-net/blob/main/LICENSE">MIT License</a>.<br>
       This site is open source. <a href="https://github.com/stouma915/stouma915-net/">Improve this site</a>.<br>
