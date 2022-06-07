@@ -2,6 +2,7 @@
 layout: default
 title: Top
 lang: ja
+en_page: /english/
 ---
 
 ## stouma915.net
