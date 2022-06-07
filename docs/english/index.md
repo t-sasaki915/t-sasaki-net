@@ -109,6 +109,3 @@ Languages: Japanese(native), English(US, just a little)
   - RAM: 32GB DDR3 ECC
   - HDD: 600GB SAS x8
   - OS: Windows Server 2012 R2 Standard
-<br>
-
-[日本語](/)
