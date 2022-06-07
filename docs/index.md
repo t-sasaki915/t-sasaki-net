@@ -2,7 +2,6 @@
 layout: default
 title: Top
 lang: ja
-ja_page: /
 en_page: /english/
 ---
 
@@ -110,6 +109,3 @@ en_page: /english/
   - RAM: 32GB DDR3 ECC
   - HDD: 600GB SAS x8
   - OS: Windows Server 2012 R2 Standard
-<br>
-
-[English](english/)
