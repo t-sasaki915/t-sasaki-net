@@ -12,24 +12,25 @@
       }
     </style>
     <script>
-      const lang = "{{ page.lang }}";
-      const jaPage = "{{ page.ja_page }}";
-      const enPage = "{{ page.en_page }}";
-      const pageTitle = "{{ page.title }}";
+      // Complemented by Jekyll
+      const LANG = "{{ page.lang }}";
+      const TITLE = "{{ page.title }}";
+      const JA_PAGE = "{{ page.ja_page }}";
+      const EN_PAGE = "{{ page.en_page }}";
 
-      if (pageTitle != "Top")
-        document.title = `${pageTitle} - stouma915.net`;
+      if (TITLE != "Top")
+        document.title = `${TITLE} - stouma915.net`;
 
       window.addEventListener("load", () => {
         const langElem = document.getElementById("lang");
 
-        if (lang == "ja" && enPage != "") {
+        if (LANG == "ja" && EN_PAGE != "") {
           langElem.innerHTML = "English";
-          langElem.href = enPage;
+          langElem.href = EN_PAGE;
         }
-        if (lang == "en" && jaPage != "") {
+        if (LANG == "en" && JA_PAGE != "") {
           langElem.innerHTML = "日本語";
-          langElem.href = jaPage;
+          langElem.href = JA_PAGE;
         }
       });
     </script>
