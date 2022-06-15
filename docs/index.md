@@ -80,8 +80,8 @@ en_page: /english/
 
 ### 使用PC
 - 自作PC
-  - CPU: Core i9 10900X
-  - RAM: 128GB DDR4
+  - CPU: Core i9 12900KS
+  - RAM: 128GB DDR5
   - GPU: NVIDIA Quadro RTX 5000
   - SSD: 1TB NVMe, 1TB SATA
   - OS: Arch Linux, Windows 10 Pro
