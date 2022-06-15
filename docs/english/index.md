@@ -80,32 +80,27 @@ Languages: Japanese(native), English(US, just a little)
 
 ### PCs
 - Homebrew PC
-  - CPU: Core i9 10900X
-  - RAM: 128GB DDR4
+  - CPU: Intel Core i9 12900KS
+  - RAM: 128GB DDR5
   - GPU: NVIDIA Quadro RTX 5000
-  - SSD: 1TB NVMe, 1TB SATA
+  - SSD: 1TB NVMe(Arch), 1TB SATA(Windows)
   - OS: Arch Linux, Windows 10 Pro
 - Homebrew PC
-  - CPU: Core i3 12100F
+  - CPU: Intel Core i3 12100F
   - RAM: 16GB DDR4
   - GPU: NVIDIA GeForce GT 710
   - SSD: 256GB NVMe
   - OS: Windows 11 Pro
 - ThinkPad E14 Gen2
-  - CPU: Core i7 1165G7
+  - CPU: Intel Core i7 1165G7
   - RAM: 32GB DDR4
   - GPU: Intel Iris Xe Graphics
-  - SSD: 1TB NVMe, 500GB NVMe
+  - SSD: 1TB NVMe(Arch), 500GB NVMe(Windows)
   - OS: Arch Linux, Windows 10 Home
 - Homebrew Server
-  - CPU: Core i9 10900X
+  - CPU: Intel Core i9 10900X
   - RAM: 128GB DDR4
   - GPU: NVIDIA GeForce GT 710
   - SSD: 1TB SATA, 2TB SATA
   - HDD: 8TB
   - OS: CentOS 7
-- Rack-Mount Server
-  - CPU: Dual Xeon E5-2650 v2
-  - RAM: 32GB DDR3 ECC
-  - HDD: 600GB SAS x8
-  - OS: Windows Server 2012 R2 Standard
