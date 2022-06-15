@@ -80,32 +80,27 @@ en_page: /english/
 
 ### 使用PC
 - 自作PC
-  - CPU: Core i9 12900KS
+  - CPU: Intel Core i9 12900KS
   - RAM: 128GB DDR5
   - GPU: NVIDIA Quadro RTX 5000
   - SSD: 1TB NVMe, 1TB SATA
   - OS: Arch Linux, Windows 10 Pro
 - 自作PC
-  - CPU: Core i3 12100F
+  - CPU: Intel Core i3 12100F
   - RAM: 16GB DDR4
   - GPU: NVIDIA GeForce GT 710
   - SSD: 256GB NVMe
   - OS: Windows 11 Pro
 - ThinkPad E14 Gen2
-  - CPU: Core i7 1165G7
+  - CPU: Intel Core i7 1165G7
   - RAM: 32GB DDR4
   - GPU: Intel Iris Xe Graphics
   - SSD: 1TB NVMe, 500GB NVMe
   - OS: Arch Linux, Windows 10 Home
 - 自作サーバー
-  - CPU: Core i9 10900X
+  - CPU: Intel Core i9 10900X
   - RAM: 128GB DDR4
   - GPU: NVIDIA GeForce GT 710
   - SSD: 1TB SATA, 2TB SATA
   - HDD: 8TB
   - OS: CentOS 7
-- ラックマウントサーバー
-  - CPU: デュアル Xeon E5-2650 v2
-  - RAM: 32GB DDR3 ECC
-  - HDD: 600GB SAS x8
-  - OS: Windows Server 2012 R2 Standard
