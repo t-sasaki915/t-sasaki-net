@@ -5,7 +5,7 @@ lang: ja
 en_page: /english/
 ---
 
-## stouma915.net
+## st915.net
 
 名前: stouma915(Sasaki Touma)<br>
 誕生日: 9/15<br>
