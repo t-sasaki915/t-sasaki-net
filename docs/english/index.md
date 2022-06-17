@@ -5,7 +5,7 @@ lang: en
 ja_page: /
 ---
 
-## stouma915.net
+## st915.net
 
 Name: stouma915(Sasaki Touma)<br>
 Birthday: September 15<br>
