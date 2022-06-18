@@ -29,7 +29,7 @@ Languages: Japanese(native), English(US, just a little)
     - Dynamix
     - Deemo
     - OverRapid
-- Computer Sciences
+- Computer Science
   - Type Theory
   - Pure Function
   - Monad
