@@ -68,7 +68,6 @@ Languages: Japanese(native), English(US, just a little)
   - Arch Linux
   - CentOS
   - i3wm
-  - LAN cable creation(Cat5e)
   - Minecraft
   - Terraria
 
