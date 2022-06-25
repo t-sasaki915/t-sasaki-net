@@ -8,7 +8,7 @@ ja_page: /
 ## st915.net
 
 Name: stouma915(Sasaki Touma)<br>
-Birthday: September 15<br>
+Birthday: September 15, 2006<br>
 Lives in: Sendai, Miyagi, Japan<br>
 Attributes: Geek, Rhythm Gamer<br>
 Belong to: High School<br>
