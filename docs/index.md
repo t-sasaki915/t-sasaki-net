@@ -76,6 +76,7 @@ en_page: /english/
 * GitHub: [stouma915](https://github.com/stouma915)
 * Steam: [stouma915](https://steamcommunity.com/profiles/76561199242758778)
 * Geartics: [net_stouma915](https://www.geartics.com/net_stouma915)
+* YouTube: [Sasaki Touma](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
 
 ### 使用PC
 - 自作PC
