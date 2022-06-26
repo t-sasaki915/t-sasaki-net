@@ -83,7 +83,7 @@ en_page: /english/
   - CPU: Intel Core i9 12900KS
   - RAM: 128GB DDR5
   - GPU: NVIDIA Quadro RTX 5000
-  - SSD: 1TB NVMe(Arch), 1TB SATA(Windows)
+  - SSD: 1TB NVMe(Arch), 2TB NVMe(Windows), 1TB SATA
   - OS: Arch Linux, Windows 10 Pro
 - 自作PC
   - CPU: Intel Core i3 12100F
