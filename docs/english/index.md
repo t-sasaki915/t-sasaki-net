@@ -83,7 +83,7 @@ Languages: Japanese(native), English(US, just a little)
   - CPU: Intel Core i9 12900KS
   - RAM: 128GB DDR5
   - GPU: NVIDIA Quadro RTX 5000
-  - SSD: 1TB NVMe(Arch), 2TB NVMe(Windows), 1TB SATA
+  - SSD: 2TB NVMe, 1TB NVMe
   - OS: Arch Linux, Windows 10 Pro
 - Homebrew PC
   - CPU: Intel Core i3 12100F
