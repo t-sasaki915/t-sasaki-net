@@ -84,7 +84,7 @@ Languages: Japanese(native), English(US, just a little)
   - RAM: 128GB DDR5
   - GPU: NVIDIA Quadro RTX 5000
   - SSD: 2TB NVMe, 1TB NVMe
-  - OS: Arch Linux, Windows 10 Pro
+  - OS: Windows 10 Pro
 - Homebrew PC
   - CPU: Intel Core i3 12100F
   - RAM: 16GB DDR4
