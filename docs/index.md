@@ -2,7 +2,7 @@
 layout: default
 title: Top
 lang: ja
-en_page: /english/
+en_page: /en/
 ---
 
 ## st915.net
