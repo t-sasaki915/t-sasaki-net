@@ -95,8 +95,8 @@ Languages: Japanese(native), English(US, just a little)
   - CPU: Intel Core i7 1165G7
   - RAM: 32GB DDR4
   - GPU: Intel Iris Xe Graphics
-  - SSD: 1TB NVMe(Arch), 500GB NVMe(Windows)
-  - OS: Arch Linux, Windows 10 Home
+  - SSD: 1TB NVMe, 500GB NVMe
+  - OS: Windows 10 Home
 - Homebrew Server
   - CPU: Intel Core i9 10900X
   - RAM: 128GB DDR4
