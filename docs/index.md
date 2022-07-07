@@ -91,7 +91,7 @@ en_page: /en/
   - GPU: NVIDIA GeForce GT 710
   - SSD: 256GB NVMe
   - OS: Windows 11 Pro
-- ThinkPad E14 Gen2
+- ノートPC(ThinkPad E14 Gen2)
   - CPU: Intel Core i7 1165G7
   - RAM: 32GB DDR4
   - GPU: Intel Iris Xe Graphics
@@ -104,7 +104,7 @@ en_page: /en/
   - SSD: 1TB SATA, 2TB SATA
   - HDD: 8TB
   - OS: CentOS 7
-- NAS
+- ファイルサーバー(Fujitsu PRIMERGY TX1310 M3)
   - CPU: Intel Xeon E3-1225 v6
   - RAM: 8GB DDR4 ECC
   - GPU: Intel HD Graphics P630
