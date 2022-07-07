@@ -91,7 +91,7 @@ en_page: /en/
   - GPU: NVIDIA GeForce GT 710
   - SSD: 256GB NVMe
   - OS: Windows 11 Pro
-- ノートPC(ThinkPad E14 Gen2)
+- ノートPC(Lenovo ThinkPad E14 Gen2)
   - CPU: Intel Core i7 1165G7
   - RAM: 32GB DDR4
   - GPU: Intel Iris Xe Graphics
