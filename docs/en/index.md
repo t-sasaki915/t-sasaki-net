@@ -91,7 +91,7 @@ Languages: Japanese(native), English(US, just a little)
   - GPU: NVIDIA GeForce GT 710
   - SSD: 256GB NVMe
   - OS: Windows 11 Pro
-- ThinkPad E14 Gen2
+- Laptop(Lenovo ThinkPad E14 Gen2)
   - CPU: Intel Core i7 1165G7
   - RAM: 32GB DDR4
   - GPU: Intel Iris Xe Graphics
@@ -104,3 +104,10 @@ Languages: Japanese(native), English(US, just a little)
   - SSD: 1TB SATA, 2TB SATA
   - HDD: 8TB
   - OS: CentOS 7
+- File Server(Fujitsu PRIMERGY TX1310 M3)
+  - CPU: Intel Xeon E3-1225 v6
+  - RAM: 8GB DDR4 ECC
+  - GPU: Intel HD Graphics P630
+  - SSD: 250GB SATA, 1TB SATA
+  - HDD: 8TB
+  - OS: Windows Server 2012 R2 Standard
