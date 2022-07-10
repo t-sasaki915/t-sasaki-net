@@ -109,5 +109,5 @@ en_page: /en/
   - RAM: 8GB DDR4 ECC
   - GPU: Intel HD Graphics P630
   - SSD: 250GB SATA, 1TB SATA
-  - HDD: 8TB
+  - HDD: 8TB, 8TB
   - OS: Windows Server 2012 R2 Standard 
