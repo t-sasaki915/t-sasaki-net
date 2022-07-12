@@ -102,12 +102,12 @@ Languages: Japanese(native), English(US, just a little)
   - RAM: 128GB DDR4
   - GPU: NVIDIA GeForce GT 710
   - SSD: 1TB SATA, 2TB SATA
-  - HDD: 8TB, 8TB
+  - HDD: 8TB
   - OS: CentOS 7
 - File Server(Fujitsu PRIMERGY TX1310 M3)
   - CPU: Intel Xeon E3-1225 v6
   - RAM: 8GB DDR4 ECC
   - GPU: Intel HD Graphics P630
   - SSD: 250GB SATA, 1TB SATA
-  - HDD: 8TB
+  - HDD: 8TB, 8TB
   - OS: Windows Server 2012 R2 Standard
