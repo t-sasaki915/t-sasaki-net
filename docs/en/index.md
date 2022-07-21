@@ -79,13 +79,13 @@ Languages: 日本語(native), English(US, just a little)
 * YouTube: [Sasaki Touma](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
 
 ### PCs
-- Homebrew PC
+- Homebrew PC(ASUS ROG MAXIMUS Z690 HERO)
   - CPU: Intel Core i9 12900KS
   - RAM: 128GB DDR5
   - GPU: NVIDIA Quadro RTX 5000
   - SSD: 2TB NVMe, 1TB NVMe
   - OS: Windows 10 Pro
-- Homebrew PC
+- Homebrew PC(ASRock H610M-ITX/ac)
   - CPU: Intel Core i3 12100F
   - RAM: 16GB DDR4
   - GPU: NVIDIA GeForce GT 710
@@ -97,7 +97,7 @@ Languages: 日本語(native), English(US, just a little)
   - GPU: Intel Iris Xe Graphics
   - SSD: 1TB NVMe, 500GB NVMe
   - OS: Windows 10 Home
-- Homebrew Server
+- Homebrew Server(ASUS PRIME X299-A II)
   - CPU: Intel Core i9 10900X
   - RAM: 128GB DDR4
   - GPU: NVIDIA GeForce GT 710
