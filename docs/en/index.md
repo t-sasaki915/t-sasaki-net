@@ -12,7 +12,7 @@ Birthday: September 15, 2006<br>
 Lives in: Sendai, Miyagi, Japan<br>
 Attributes: Geek, Rhythm Gamer<br>
 Belongs to: High School<br>
-Languages: 日本語(native), English(US, just a little)
+Languages: Japanese(native), English(US, just a little)
 #### Favorites
 - Linux
   - Arch Linux
