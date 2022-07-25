@@ -103,7 +103,7 @@ Languages: Japanese(native), English(US, just a little)
   - GPU: NVIDIA GeForce GT 710
   - SSD: 1TB SATA, 2TB SATA
   - HDD: 8TB
-  - OS: CentOS 7
+  - OS: Debian 11
 - File Server(Fujitsu PRIMERGY TX1310 M3)
   - CPU: Intel Xeon E3-1225 v6
   - RAM: 8GB DDR4 ECC
