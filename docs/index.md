@@ -81,7 +81,7 @@ en_page: /en/
 ### 使用PC
 - 自作PC(ASUS ROG MAXIMUS Z690 HERO)
   - CPU: Intel Core i9 12900KS
-  - RAM: 128GB DDR5-4800
+  - RAM: 128GB DDR5
   - GPU: NVIDIA Quadro RTX 5000
   - SSD: 2TB NVMe, 1TB NVMe
   - OS: Windows 10 Pro
