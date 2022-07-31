@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Top
+title: 使用PC
 lang: ja
 en_page: /pcs/en/
 ---
