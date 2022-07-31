@@ -59,7 +59,6 @@ Languages: Japanese(native), English(US, just a little)
   - Rust
   - C++
   - Brainf\*\*k
-  - bash script
   - Windows Server
   - Dynamix
   - Deemo
@@ -111,3 +110,5 @@ Languages: Japanese(native), English(US, just a little)
   - SSD: 250GB SATA, 1TB SATA
   - HDD: 8TB, 8TB
   - OS: Windows Server 2012 R2 Standard
+
+mail: netst915 \[at] gmail.com
