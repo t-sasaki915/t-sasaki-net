@@ -110,3 +110,5 @@ en_page: /en/
   - SSD: 250GB SATA, 1TB SATA
   - HDD: 8TB, 8TB
   - OS: Windows Server 2012 R2 Standard 
+
+mail: netst915 \[at] gmail.com
