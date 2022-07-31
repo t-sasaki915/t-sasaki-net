@@ -40,4 +40,4 @@ ja_page: /pcs/
   - HDD: 8TB, 8TB
   - OS: Windows Server 2012 R2 Standard
 
-[Top Page](/)
+[Top Page](/en/)
