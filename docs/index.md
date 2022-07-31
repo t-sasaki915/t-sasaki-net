@@ -59,7 +59,6 @@ en_page: /en/
   - Rust
   - C++
   - Brainf\*\*k
-  - bashスクリプト
   - Windows Server
   - Dynamix
   - Deemo
