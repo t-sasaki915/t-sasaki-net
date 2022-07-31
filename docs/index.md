@@ -10,7 +10,7 @@ en_page: /en/
 名前: stouma915(Sasaki Touma)<br>
 誕生日: 2006/9/15<br>
 居住: 日本 宮城県仙台市<br>
-言語: 日本語(ネイティブ)・英語(US, 少し)
+言語: 日本語(ネイティブ), 英語(US, 少し)
 #### 好き
 - Linux
   - Arch Linux
@@ -53,25 +53,25 @@ en_page: /en/
 
 ### 使用PC
 - 自作PC(ASUS ROG MAXIMUS Z690 HERO)
-  - CPU: Intel Core i9 12900KS
+  - CPU: Intel Core i9-12900KS
   - RAM: 128GB DDR5
   - GPU: NVIDIA Quadro RTX 5000
-  - SSD: 2TB NVMe, 1TB NVMe
+  - SSD: 1TB NVMe, 2TB NVMe
   - OS: Windows 10 Pro
 - 自作PC(ASRock H610M-ITX/ac)
-  - CPU: Intel Core i3 12100F
+  - CPU: Intel Core i3-12100F
   - RAM: 16GB DDR4
   - GPU: NVIDIA GeForce GT 710
   - SSD: 256GB NVMe
   - OS: Windows 11 Pro
 - ノートPC(Lenovo ThinkPad E14 Gen2)
-  - CPU: Intel Core i7 1165G7
+  - CPU: Intel Core i7-1165G7
   - RAM: 32GB DDR4
   - GPU: Intel Iris Xe Graphics
   - SSD: 1TB NVMe, 500GB NVMe
   - OS: Windows 10 Home
 - 自作サーバー(ASUS PRIME X299-A II)
-  - CPU: Intel Core i9 10900X
+  - CPU: Intel Core i9-10900X
   - RAM: 128GB DDR4
   - GPU: NVIDIA GeForce GT 710
   - SSD: 1TB SATA, 2TB SATA
