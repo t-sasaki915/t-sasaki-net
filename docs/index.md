@@ -33,14 +33,14 @@ en_page: /en/
 #### 技術
 - 初心者レベル
   - Haskell
-- 少しできる
   - TypeScript
-  - Rust
   - C++
+- 少しできる
+  - Rust
+  - Scala
   - Brainf\*\*k
   - Windows Server
 - ある程度できる
-  - Scala
   - Arch Linux
   - CentOS
 
