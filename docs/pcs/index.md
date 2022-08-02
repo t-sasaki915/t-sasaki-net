@@ -5,7 +5,7 @@ lang: ja
 en_page: /pcs/en/
 ---
 
-## st915.net - 使用PC
+## 使用PC - st915.net
 
 - 自作PC(ASUS ROG MAXIMUS Z690 HERO)
   - CPU: Intel Core i9-12900KS
