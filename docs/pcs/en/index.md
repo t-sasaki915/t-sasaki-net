@@ -5,7 +5,7 @@ lang: en
 ja_page: /pcs/
 ---
 
-## st915.net - My PC
+## My PC - st915.net
 
 - Homebrew PC(ASUS ROG MAXIMUS Z690 HERO)
   - CPU: Intel Core i9-12900KS
