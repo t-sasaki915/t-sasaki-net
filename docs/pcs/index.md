@@ -30,7 +30,7 @@ en_page: /pcs/en/
   - RAM: 4GB DDR4
   - GPU: Intel HD Graphics 620
   - SSD: 500GB SATA
-  - OS: Arch Linux
+  - OS: Debian 11
 - 自作サーバー(ASUS PRIME X299-A II)
   - CPU: Intel Core i9-10900X
   - RAM: 128GB DDR4
