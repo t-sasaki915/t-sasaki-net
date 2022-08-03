@@ -25,6 +25,12 @@ ja_page: /pcs/
   - GPU: Intel Iris Xe Graphics
   - SSD: 1TB NVMe, 500GB NVMe
   - OS: Windows 10 Home
+- Laptop(Lenovo ThinkPad L470)
+  - CPU: Intel Core i5-7300U
+  - RAM: 4GB DDR4
+  - GPU: Intel HD Graphics 620
+  - SSD: 500GB SATA
+  - OS: Debian 11
 - Homebrew Server(ASUS PRIME X299-A II)
   - CPU: Intel Core i9-10900X
   - RAM: 128GB DDR4
