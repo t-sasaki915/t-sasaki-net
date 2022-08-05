@@ -29,20 +29,20 @@ en_page: /pcs/en/
   - CPU: Intel Core i5-7300U
   - RAM: 4GB DDR4
   - GPU: Intel HD Graphics 620
-  - SSD: 500GB SATA
+  - SSD: 500GB
   - OS: Debian 11
 - 自作サーバー(ASUS PRIME X299-A II)
   - CPU: Intel Core i9-10900X
   - RAM: 128GB DDR4
   - GPU: NVIDIA GeForce GT 710
-  - SSD: 1TB SATA, 2TB SATA
+  - SSD: 1TB, 2TB
   - HDD: 8TB
   - OS: Debian 11
 - ファイルサーバー(Fujitsu PRIMERGY TX1310 M3)
   - CPU: Intel Xeon E3-1225 v6
   - RAM: 8GB DDR4 ECC
   - GPU: Intel HD Graphics P630
-  - SSD: 250GB SATA, 1TB SATA
+  - SSD: 250GB, 1TB
   - HDD: 8TB, 8TB
   - OS: Windows Server 2012 R2 Standard
 
