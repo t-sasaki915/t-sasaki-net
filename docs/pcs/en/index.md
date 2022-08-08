@@ -42,7 +42,7 @@ ja_page: /pcs/
   - CPU: Intel Xeon E3-1225 v6
   - RAM: 8GB DDR4 ECC
   - GPU: Intel HD Graphics P630
-  - SSD: 250GB SATA, 1TB SATA
+  - SSD: 256GB SATA, 1TB SATA
   - HDD: 8TB, 8TB
   - OS: Windows Server 2012 R2 Standard
 
