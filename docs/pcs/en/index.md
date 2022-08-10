@@ -30,7 +30,7 @@ ja_page: /pcs/
   - RAM: 4GB DDR4
   - GPU: Intel HD Graphics 620
   - SSD: 500GB SATA
-  - OS: Debian 11
+  - OS: Windows 10 Pro
 - Homebrew Server(ASUS PRIME X299-A II)
   - CPU: Intel Core i9-10900X
   - RAM: 128GB DDR4
