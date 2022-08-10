@@ -27,7 +27,7 @@ en_page: /pcs/en/
   - OS: Windows 10 Home
 - ノートPC(Lenovo ThinkPad L470)
   - CPU: Intel Core i5-7300U
-  - RAM: 4GB DDR4
+  - RAM: 20GB DDR4
   - GPU: Intel HD Graphics 620
   - SSD: 500GB
   - OS: Windows 10 Pro
