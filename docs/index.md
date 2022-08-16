@@ -12,22 +12,16 @@ en_page: /en/
 居住: 日本 宮城県仙台市<br>
 言語: 日本語(ネイティブ), 英語(US, 少し)
 #### 好き
-- Linux
-  - Arch Linux
-- プログラミング言語
-  - Scala
-  - Haskell
-  - Rust
-  - Brainf\*\*k
-- コンピューターサイエンス
-  - 型理論
-  - 純粋関数
-  - モナド
-    - IO
-    - Either
-- 数学
-  - λ計算
-  - 関数
+- Arch Linux
+- Scala
+- Haskell
+- Rust
+- Brainf\*\*k
+- 型理論
+- 純粋関数
+- モナド
+- λ計算
+- 関数
 - セキセイインコ
 
 #### 技術
