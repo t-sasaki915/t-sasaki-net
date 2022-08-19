@@ -18,7 +18,7 @@ ja_page: /pcs/
   - RAM: 16GB DDR4
   - GPU: NVIDIA GeForce GT 710
   - SSD: 256GB NVMe
-  - OS: Windows 11 Pro
+  - OS: Windows 10 Pro
 - Laptop(Lenovo ThinkPad E14 Gen2)
   - CPU: Intel Core i7-1165G7
   - RAM: 32GB DDR4
