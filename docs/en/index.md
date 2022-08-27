@@ -45,6 +45,7 @@ Languages: Japanese(native), English(US, just a little)
 * Geartics: [net_stouma915](https://www.geartics.com/net_stouma915)
 * YouTube: [Sasaki Touma](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
 
-[My PC](/pcs/en/)
+[My PC](/pcs/en/)<br>
+[Minesweeper(in development)](https://stouma915.github.io/minesweeper/)
 
 mail: netst915 \[at] gmail.com
