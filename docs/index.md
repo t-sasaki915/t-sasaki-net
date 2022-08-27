@@ -45,6 +45,7 @@ en_page: /en/
 * Geartics: [net_stouma915](https://www.geartics.com/net_stouma915)
 * YouTube: [Sasaki Touma](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
 
-[使用PC一覧](/pcs)
+[使用PC一覧](/pcs)<br>
+[マインスイーパ(作成中)](https://stouma915.github.io/minesweeper/)
 
 mail: netst915 \[at] gmail.com
