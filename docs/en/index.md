@@ -46,6 +46,6 @@ Languages: Japanese(native), English(US, just a little)
 * YouTube: [Sasaki Touma](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
 
 [My PC](/pcs/en/)<br>
-[Minesweeper(in development)](https://stouma915.github.io/minesweeper/)
+[Minesweeper](https://stouma915.github.io/minesweeper/)
 
 mail: netst915 \[at] gmail.com
