@@ -19,9 +19,6 @@
       const JA_PAGE = "{{ page.ja_page }}";
       const EN_PAGE = "{{ page.en_page }}";
 
-      const REPOSITORY = "https://github.com/stouma915/st915-net/";
-      const MAIN_BRANCH = "main";
-
       if (TITLE != "Top")
         document.title = `${TITLE} - st915.net`;
 
@@ -35,15 +32,6 @@
           langElem.innerHTML = "日本語";
           langElem.href = JA_PAGE;
         }
-
-        const licenseElem = document.getElementById("license");
-        if (REPOSITORY.endsWith("/"))
-          licenseElem.href = `${REPOSITORY}blob/${MAIN_BRANCH}/LICENSE`;
-        else
-          licenseElem.href = `${REPOSITORY}/blob/${MAIN_BRANCH}/LICENSE`;
-
-        const improveElem = document.getElementById("improve");
-        improveElem.href = REPOSITORY;
       });
     </script>
   </head>
@@ -52,8 +40,8 @@
     <br>
     <a id="lang" href="#"></a>
     <p>
-      This site is licensed under the <a id="license" href="#">MIT License</a>.<br>
-      This site is open source. <a id="improve" href="#">Improve this site</a>.<br>
+      This site is licensed under the <a href="https://github.com/stouma915/st915-net/blob/main/LICENSE">MIT License</a>.<br>
+      This site is open source. <a href="https://github.com/stouma915/st915-net/">Improve this site</a>.<br>
       Powered by <a href="https://pages.github.com">GitHub Pages</a>.<br>
     </p>
   </body>
