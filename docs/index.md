@@ -27,11 +27,11 @@ en_page: /en/
 #### 技術
 - 初心者レベル
   - Haskell
-  - TypeScript
+  - Rust
   - C++
 - 少しできる
-  - Rust
   - Scala
+  - TypeScript
   - Brainf\*\*k
   - Windows Server
 - ある程度できる
