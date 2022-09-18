@@ -27,11 +27,11 @@ Languages: Japanese(native), English(US, just a little)
 #### Skills
 - Beginner Level
   - Haskell
-  - TypeScript
+  - Rust
   - C++
 - Intermediate Level
-  - Rust
   - Scala
+  - TypeScript
   - Brainf\*\*k
   - Windows Server
 - Certain Extent
