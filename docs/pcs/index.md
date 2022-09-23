@@ -24,7 +24,7 @@ en_page: /pcs/en/
   - RAM: 32GB DDR4
   - GPU: Intel Iris Xe Graphics
   - SSD: 1TB NVMe, 500GB NVMe
-  - OS: Windows 10 Home
+  - OS: Windows 10 Home, Arch Linux
 - ノートPC(Lenovo ThinkPad L470)
   - CPU: Intel Core i5-7300U
   - RAM: 20GB DDR4
