@@ -19,8 +19,9 @@
       const JA_PAGE = "{{ page.ja_page }}";
       const EN_PAGE = "{{ page.en_page }}";
 
-      if (TITLE != "Top")
+      if (TITLE != "Top") {
         document.title = `${TITLE} - st915.net`;
+      }
 
       window.addEventListener("load", () => {
         const langElem = document.getElementById("lang");
