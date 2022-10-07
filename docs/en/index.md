@@ -10,7 +10,7 @@ ja_page: /
 Name: stouma915(Sasaki Touma)<br>
 Birthday: September 15, 2006<br>
 Lives in: Sendai, Miyagi, Japan<br>
-Languages: Japanese(native), English(US, just a little)
+Languages: Japanese(native), English(just a little)
 #### Favorites
 - Arch Linux
 - Scala
