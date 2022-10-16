@@ -33,10 +33,6 @@ en_page: /en/
   - Scala
   - TypeScript
   - Brainf\*\*k
-  - Windows Server
-- ある程度できる
-  - Arch Linux
-  - CentOS
 
 ### リンク
 * Twitter: [net_stouma915](https://twitter.com/net_stouma915)
