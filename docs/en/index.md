@@ -33,10 +33,6 @@ Languages: Japanese(native), English(just a little)
   - Scala
   - TypeScript
   - Brainf\*\*k
-  - Windows Server
-- Certain Extent
-  - Arch Linux
-  - CentOS
 
 ### Links
 * Twitter: [net_stouma915](https://twitter.com/net_stouma915)
