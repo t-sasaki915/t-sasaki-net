@@ -13,6 +13,12 @@ en_page: /pcs/en/
   - GPU: NVIDIA GeForce RTX 3090 Ti
   - SSD: 1TB NVMe, 2TB NVMe
   - OS: Windows 10 Pro
+- 自作PC(ASUS PRIME X299-A II)
+  - CPU: Intel Core i9-10900X
+  - RAM: 128GB DDR4
+  - GPU: NVIDIA Quadro RTX 5000
+  - SSD: 1TB NVMe
+  - OS: Windows 10 Pro
 - 自作PC(ASRock H610M-ITX/ac)
   - CPU: Intel Core i3-12100F
   - RAM: 16GB DDR4
