@@ -12,16 +12,12 @@ Birthday: September 15, 2006<br>
 Lives in: Sendai, Miyagi, Japan<br>
 Languages: Japanese(native), English(just a little)
 #### Favorites
-- Arch Linux
 - Scala
 - Haskell
-- Rust
 - Brainf\*\*k
-- Type Theory
 - Pure Function
 - Monad
 - λ-Calculus
-- Function
 - Budgies
 
 #### Skills
