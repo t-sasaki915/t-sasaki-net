@@ -10,7 +10,7 @@ en_page: /en/
 名前: stouma915(Sasaki Touma)<br>
 生年月日: 2006/9/15<br>
 居住: 日本 宮城県仙台市<br>
-言語: 日本語, 英語(少し)
+言語: 日本語
 #### 好き
 - Scala
 - Haskell
@@ -23,7 +23,6 @@ en_page: /en/
 #### 技術
 - 初心者レベル
   - Haskell
-  - Rust
   - C++
 - 少しできる
   - Scala
