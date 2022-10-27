@@ -10,7 +10,7 @@ ja_page: /
 Name: stouma915(Sasaki Touma)<br>
 Birthday: September 15, 2006<br>
 Lives in: Sendai, Miyagi, Japan<br>
-Languages: Japanese(native), English(just a little)
+Languages: Japanese
 #### Favorites
 - Scala
 - Haskell
@@ -23,7 +23,6 @@ Languages: Japanese(native), English(just a little)
 #### Skills
 - Beginner Level
   - Haskell
-  - Rust
   - C++
 - Intermediate Level
   - Scala
