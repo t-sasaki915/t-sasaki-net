@@ -38,5 +38,5 @@ en_page: /en/
 
 [使用PC](/pcs)<br>
 [マインスイーパ](https://stouma915.github.io/minesweeper/)
-<br><br>
+
 mail: netst915 \[at] gmail.com
