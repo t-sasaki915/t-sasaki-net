@@ -39,4 +39,4 @@ Languages: Japanese
 [My PC](/pcs/en/)<br>
 [Minesweeper](https://stouma915.github.io/minesweeper/)
 
-mail: netst915 \[at] gmail.com
+mail: netst915 \[at] gmail.com.
