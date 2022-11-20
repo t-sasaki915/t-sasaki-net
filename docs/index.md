@@ -32,7 +32,7 @@ en_page: /en/
 #### リンク
 * Twitter: [net_stouma915](https://twitter.com/net_stouma915)
 * GitHub: [stouma915](https://github.com/stouma915)
-* Steam: [Mathematics](https://steamcommunity.com/profiles/76561199242758778)
+* Steam: [Sasaki Touma](https://steamcommunity.com/profiles/76561199242758778)
 * Geartics: [net_stouma915](https://www.geartics.com/net_stouma915)
 * YouTube: [Sasaki Touma](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
 
