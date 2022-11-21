@@ -25,6 +25,12 @@ en_page: /pcs/en/
   - GPU: NVIDIA GeForce GT 710
   - SSD: 256GB NVMe
   - OS: Windows 10 Pro
+- ノートPC(Lenovo ThinkPad P14s Gen3)
+  - CPU: Intel Core i7-1280P
+  - RAM: 32GB DDR4
+  - GPU: NVIDIA Quadro T550
+  - SSD: 1TB NVMe
+  - OS: Windows 10 Pro
 - ノートPC(Lenovo ThinkPad E14 Gen2)
   - CPU: Intel Core i7-1165G7
   - RAM: 32GB DDR4
