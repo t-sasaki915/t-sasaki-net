@@ -22,7 +22,7 @@ en_page: /pcs/en/
 - ノートPC(Lenovo ThinkPad P14s Gen3)
   - CPU: Intel Core i7-1280P
   - RAM: 32GB DDR4
-  - GPU: NVIDIA Quadro T550
+  - GPU: NVIDIA T550 Laptop GPU
   - SSD: 1TB NVMe
   - OS: Windows 10 Pro
 
