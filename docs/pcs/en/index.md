@@ -19,37 +19,11 @@ ja_page: /pcs/
   - GPU: NVIDIA Quadro RTX 5000
   - SSD: 1TB NVMe
   - OS: Windows 10 Pro
-- Homebrew PC(ASRock H610M-ITX/ac)
-  - CPU: Intel Core i3-12100F
-  - RAM: 16GB DDR4
-  - GPU: NVIDIA GeForce GT 710
-  - SSD: 256GB NVMe
-  - OS: Windows 10 Pro
-- Laptop(Lenovo ThinkPad E14 Gen2)
-  - CPU: Intel Core i7-1165G7
+- Laptop(Lenovo ThinkPad P14s Gen 3)
+  - CPU: Intel Core i7-1280P
   - RAM: 32GB DDR4
-  - GPU: Intel Iris Xe Graphics
-  - SSD: 1TB NVMe, 500GB NVMe
-  - OS: Arch Linux, Windows 11 Home
-- Laptop(Lenovo ThinkPad L470)
-  - CPU: Intel Core i5-7300U
-  - RAM: 20GB DDR4
-  - GPU: Intel HD Graphics 620
-  - SSD: 500GB SATA
+  - GPU: NVIDIA T550 Laptop GPU
+  - SSD: 1TB NVMe
   - OS: Windows 10 Pro
-- Homebrew Server(ASUS PRIME X299-A II)
-  - CPU: Intel Core i9-10900X
-  - RAM: 128GB DDR4
-  - GPU: NVIDIA GeForce GT 710
-  - SSD: 1TB SATA, 2TB SATA
-  - HDD: 8TB
-  - OS: Debian 11
-- File Server(Fujitsu PRIMERGY TX1310 M3)
-  - CPU: Intel Xeon E3-1225 v6
-  - RAM: 8GB DDR4 ECC
-  - GPU: Intel HD Graphics P630
-  - SSD: 256GB SATA, 1TB SATA
-  - HDD: 8TB, 8TB
-  - OS: Windows Server 2012 R2 Standard
 
 [Top Page](/en/)
