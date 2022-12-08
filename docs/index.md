@@ -29,7 +29,7 @@ Languages: Japanese
 * Geartics: [net_stouma915](https://www.geartics.com/net_stouma915)
 * YouTube: [Sasaki Touma](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
 
-[My PC](/pcs/en/)<br>
+[My PCs](/pcs/)<br>
 [Minesweeper](https://stouma915.github.io/minesweeper/)
 
 mail: netst915 \[at] gmail.com
