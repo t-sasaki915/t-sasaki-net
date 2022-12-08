@@ -14,11 +14,7 @@ en_page: /en/
 #### 好き
 - Scala
 - Haskell
-- Brainf\*\*k
-- 純粋関数
-- モナド
-- λ計算
-- セキセイインコ
+- 関数型プログラミング
 
 #### 技術
 - 初心者レベル
@@ -27,7 +23,6 @@ en_page: /en/
 - 少しできる
   - Scala
   - TypeScript
-  - Brainf\*\*k
 
 #### リンク
 * Twitter: [net_stouma915](https://twitter.com/net_stouma915)
