@@ -13,6 +13,11 @@ Languages: Japanese
 - Scala
 - Haskell
 - Functional Programming
+- ThinkPad
+
+#### Interested In
+- Assembly Language
+- Arch Linux
 
 #### Skills
 - Beginner Level
