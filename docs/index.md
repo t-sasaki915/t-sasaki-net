@@ -26,7 +26,7 @@ Languages: Japanese
 - Minesweeper made with Functional Scala.js
   - [Try it](https://stouma915.github.io/minesweeper-scala/)
   - [GitHub](https://github.com/stouma915/minesweeper-scala/)
-- Minesweeper made with TypeScript\
+- Minesweeper made with TypeScript
   - [Try it](https://stouma915.github.io/minesweeper/)
   - [GitHub](https://github.com/stouma915/minesweeper/)
 - Brainf\*\*k Compiler
