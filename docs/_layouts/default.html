@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang }}">
+<html lang="en">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,37 +9,23 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@350;600&amp;display=swap">
     <style>
       body {
-        font-family: "Noto Sans JP", sans-serif;
+        font-family: sans-serif;
       }
     </style>
     <script>
       // Complemented by Jekyll
-      const LANG = "{{ page.lang }}";
       const TITLE = "{{ page.title }}";
-      const JA_PAGE = "{{ page.ja_page }}";
-      const EN_PAGE = "{{ page.en_page }}";
 
       if (TITLE != "Top") {
         document.title = `${TITLE} - st915.net`;
+      } else {
+        // do nothing
       }
-
-      window.addEventListener("load", () => {
-        const langElem = document.getElementById("lang");
-        if (LANG == "ja" && EN_PAGE != "") {
-          langElem.innerHTML = "English";
-          langElem.href = EN_PAGE;
-        }
-        if (LANG == "en" && JA_PAGE != "") {
-          langElem.innerHTML = "日本語";
-          langElem.href = JA_PAGE;
-        }
-      });
     </script>
   </head>
   <body>
     {{ content }}
     <br>
-    <a id="lang" href="#"></a>
     <p>
       This site is licensed under the <a href="https://github.com/stouma915/st915-net/blob/main/LICENSE">MIT License</a>.<br>
       This site is open source. <a href="https://github.com/stouma915/st915-net/">Improve this site</a>.<br>
