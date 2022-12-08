@@ -22,7 +22,7 @@ Languages: Japanese
   - Scala
   - TypeScript
 
-#### Things I've made
+#### Things I've Made
 - [Minesweeper made with Functional Scala.js](https://stouma915.github.io/minesweeper-scala/)
 - [Minesweeper made with TypeScript](https://stouma915.github.io/minesweeper/)
 - [Brainf\*\*k Compiler](https://github.com/stouma915/bf-compiler) 
