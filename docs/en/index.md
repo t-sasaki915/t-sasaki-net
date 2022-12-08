@@ -14,11 +14,7 @@ Languages: Japanese
 #### Favorites
 - Scala
 - Haskell
-- Brainf\*\*k
-- Pure Function
-- Monad
-- λ-Calculus
-- Budgies
+- Functional Programming
 
 #### Skills
 - Beginner Level
@@ -27,7 +23,6 @@ Languages: Japanese
 - Intermediate Level
   - Scala
   - TypeScript
-  - Brainf\*\*k
 
 #### Links
 * Twitter: [net_stouma915](https://twitter.com/net_stouma915)
