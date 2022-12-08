@@ -1,9 +1,9 @@
 ---
 layout: default
-title: My PC
+title: My PCs
 ---
 
-## My PC - st915.net
+## My PCs - st915.net
 
 - Homebrew PC(ASUS ROG MAXIMUS Z690 HERO)
   - CPU: Intel Core i9-12900KS
@@ -24,4 +24,4 @@ title: My PC
   - SSD: 1TB NVMe
   - OS: Windows 10 Pro
 
-[Top Page](/en/)
+[Top Page](/)
