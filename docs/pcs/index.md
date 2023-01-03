@@ -24,4 +24,4 @@ title: My PCs
   - SSD: 1TB NVMe
   - OS: Windows 10 Pro
 
-[Top Page](/)
+[Back to Top Page](/)
