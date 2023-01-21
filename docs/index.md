@@ -37,6 +37,8 @@ Languages: Japanese
 - Brainf\*\*k Compiler
   - [Try it](https://github.com/stouma915/bf-compiler/releases/latest)
   - [GitHub](https://github.com/stouma915/bf-compiler/)
+- Typesafe Scala.js
+  - [GitHub](https://github.com/stouma915/typesafe-scalajs)
 
 #### Links
 * [Twitter](https://twitter.com/net_stouma915)
