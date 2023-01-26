@@ -16,8 +16,8 @@ Languages: Japanese
 - ThinkPad
 
 #### Interested In
-- Assembly Language
-- Arch Linux
+- Type Safety
+- Type Theory
 
 #### Skills
 - Beginner Level
