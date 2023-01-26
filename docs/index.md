@@ -34,7 +34,7 @@ Languages: Japanese
 - Minesweeper made with TypeScript
   - [Try it](https://stouma915.github.io/minesweeper/)
   - [GitHub](https://github.com/stouma915/minesweeper/)
-- Brainf\*\*k Compiler
+- Brainf\*\*k Compiler (Brainf\*\*k → Assembly)
   - [Try it](https://github.com/stouma915/bf-compiler/releases/latest)
   - [GitHub](https://github.com/stouma915/bf-compiler/)
 - Typesafe Scala.js
@@ -45,7 +45,7 @@ Languages: Japanese
 * [GitHub](https://github.com/stouma915)
 * [Steam](https://steamcommunity.com/profiles/76561199242758778)
 * [Geartics](https://www.geartics.com/net_stouma915)
-* [YouTube](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
+* [YouTube (no content)](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
 
 [My PCs](/pcs/)<br>
 
