@@ -9,28 +9,21 @@ Name: Sasaki Touma<br>
 Birthday: 15 September 2006<br>
 Lives in: Sendai, Miyagi, Japan<br>
 Languages: Japanese
-#### Favorites
-- Scala
-- Haskell
-- Functional Programming
-- ThinkPad
 
 #### Interested In
+- Functional Programming
 - Type Safety
-- Type Theory
 
 #### Studying
 - Mathematics (at high school)
 - Mathematics (especially Category Theory, λ-Calculus)
 - Computer Science (especially Functional Programming, Type Theory, and Type Safety)
 
-#### Skills
-- Beginner Level
-  - Haskell
-  - C++
-- Intermediate Level
-  - Scala
-  - TypeScript
+#### Programming Languages I use
+- Scala
+- TypeScript
+- C++
+- Haskell
 
 #### Things I've Made
 - Minesweeper made with Functional Scala.js
