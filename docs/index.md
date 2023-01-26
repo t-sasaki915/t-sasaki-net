@@ -6,7 +6,7 @@ title: Top
 ## st915.net
 
 Name: Sasaki Touma<br>
-Birthday: September 15, 2006<br>
+Birthday: 15 September 2006<br>
 Lives in: Sendai, Miyagi, Japan<br>
 Languages: Japanese
 #### Favorites
