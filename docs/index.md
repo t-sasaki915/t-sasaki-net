@@ -22,7 +22,7 @@ Languages: Japanese
 #### Studying
 - Mathematics (at high school)
 - Mathematics (especially Category Theory, λ-Calculus)
-- Computer Science (especially Functional Programming, Type Theory)
+- Computer Science (especially Functional Programming, Type Theory, and Type Safety)
 
 #### Skills
 - Beginner Level
