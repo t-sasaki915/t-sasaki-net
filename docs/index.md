@@ -19,6 +19,11 @@ Languages: Japanese
 - Type Safety
 - Type Theory
 
+#### Studying
+- Mathematics (at high school)
+- Mathematics (especially Category Theory, λ-Calculus)
+- Computer Science (especially Functional Programming, Type Theory)
+
 #### Skills
 - Beginner Level
   - Haskell
