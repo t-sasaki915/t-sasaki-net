@@ -42,7 +42,6 @@ Languages: Japanese
 * [Twitter](https://twitter.com/net_stouma915)
 * [GitHub](https://github.com/stouma915)
 * [Steam](https://steamcommunity.com/profiles/76561199242758778)
-* [Geartics](https://www.geartics.com/net_stouma915)
 * [YouTube (no content)](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
 
 [My PCs](/pcs/)<br>
