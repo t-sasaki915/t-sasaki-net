@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Top
+title: About mw
 ---
 
-## st915.net
+## About me
 
 Name: Sasaki Touma<br>
 Birthday: 15 September 2006<br>
