@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About mw
+title: About me
 ---
 
 ## About me
