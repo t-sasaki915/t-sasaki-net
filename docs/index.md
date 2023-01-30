@@ -46,4 +46,4 @@ Languages: Japanese
 
 [My PCs](/pcs/)<br>
 
-mail: netst915 \[at] gmail.com
+mail: netst915 \[at\] gmail.com
