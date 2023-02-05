@@ -19,7 +19,7 @@ Languages: Japanese
 - Mathematics (especially Category Theory, λ-Calculus)
 - Computer Science (especially Functional Programming, Type Theory, and Type Safety)
 
-#### Programming Languages I use
+#### Programming Languages I Use
 - Scala
 - TypeScript
 - C++
@@ -44,6 +44,18 @@ Languages: Japanese
 * [Steam](https://steamcommunity.com/profiles/76561199242758778)
 * [YouTube (no content)](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
 
-[My PCs](/pcs/)<br>
+#### Computers I Use
+- Desktop (ASUS ROG MAXIMUS Z690 HERO)
+  - Intel Core i9-12900KS
+  - 128GB DDR5 RAM
+  - NVIDIA GeForce RTX 3090 Ti
+  - 1TB NVMe, 2TB NVMe
+  - Windows 10 Pro
+- Laptop (Lenovo ThinkPad P14s Gen 3)
+  - Intel Core i7-1280P
+  - 32GB DDR4 RAM
+  - NVIDIA T550 Laptop GPU
+  - 1TB NVMe
+  - Windows 11 Pro
 
 mail: netst915 \[at\] gmail.com
