@@ -10,7 +10,7 @@ Birthday: 15 September 2006<br>
 Lives in: Sendai, Miyagi, Japan<br>
 Languages: Japanese
 
-#### Interested In
+#### Interests
 - Functional Programming
 - Type Safety
 
