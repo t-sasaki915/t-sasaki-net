@@ -37,5 +37,3 @@ Languages: Japanese
 * [GitHub](https://github.com/stouma915)
 * [Steam](https://steamcommunity.com/profiles/76561199242758778)
 * [YouTube (no content)](https://www.youtube.com/channel/UCJmPPeZmL-OC03-zSb2Dcwg)
-
-mail: netst915 \[at\] gmail.com
