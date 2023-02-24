@@ -15,7 +15,6 @@ Languages: Japanese
 - Type Safety
 
 #### Studying
-- Mathematics (at high school)
 - Mathematics (especially Category Theory, λ-Calculus)
 - Computer Science (especially Functional Programming, Type Theory, and Type Safety)
 
