@@ -35,3 +35,5 @@ Languages: Japanese
 * [Twitter](https://twitter.com/net_stouma915)
 * [GitHub](https://github.com/stouma915)
 * [Steam](https://steamcommunity.com/profiles/76561199242758778)
+
+My Laptop: [ThinkPad P14s Gen 3](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/len101t0011)
