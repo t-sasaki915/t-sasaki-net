@@ -36,4 +36,4 @@ Languages: Japanese
 * [GitHub](https://github.com/stouma915)
 * [Steam](https://steamcommunity.com/profiles/76561199242758778)
 
-My ThinkPad: [ThinkPad P14s Gen 3](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/len101t0011)
+My ThinkPad: ThinkPad P14s Gen 3
