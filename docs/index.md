@@ -13,7 +13,6 @@ Languages: Japanese
 #### Interests
 - Functional Programming
 - Type Safety
-- Network
 
 #### Studying
 - Mathematics (at high school)
