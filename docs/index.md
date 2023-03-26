@@ -39,3 +39,5 @@ Languages: Japanese
 * [Steam](https://steamcommunity.com/profiles/76561199242758778)
 
 My ThinkPad: ThinkPad P14s Gen 3
+<br>
+[See Home Network Diagram](/network-diagram)
