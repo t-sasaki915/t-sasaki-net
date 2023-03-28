@@ -37,6 +37,7 @@ Languages: Japanese
 * [Twitter](https://twitter.com/net_stouma915)
 * [GitHub](https://github.com/stouma915)
 * [Steam](https://steamcommunity.com/profiles/76561199242758778)
+* [Central Repository](https://repo1.maven.org/maven2/net/st915/)
 
 My ThinkPad: ThinkPad P14s Gen 3
 <br>
