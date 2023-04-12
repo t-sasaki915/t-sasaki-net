@@ -21,16 +21,16 @@ Languages: Japanese
 
 #### Things I've Made
 - Minesweeper made with Functional Scala.js
-  - [Try it](https://stouma915.github.io/minesweeper-scala/)
-  - [GitHub](https://github.com/stouma915/minesweeper-scala/)
+  - [Try it](https://t-sasaki915.github.io/minesweeper-scala/)
+  - [GitHub](https://github.com/t-sasaki915/minesweeper-scala/)
 - Minesweeper made with TypeScript
-  - [Try it](https://stouma915.github.io/minesweeper/)
-  - [GitHub](https://github.com/stouma915/minesweeper/)
+  - [Try it](https://t-sasaki915.github.io/minesweeper/)
+  - [GitHub](https://github.com/t-sasaki915/minesweeper/)
 - Brainf\*\*k Compiler (Brainf\*\*k → Assembly)
-  - [Try it](https://github.com/stouma915/bf-compiler/releases/latest)
-  - [GitHub](https://github.com/stouma915/bf-compiler/)
+  - [Try it](https://github.com/t-sasaki915/bf-compiler/releases/latest)
+  - [GitHub](https://github.com/t-sasaki915/bf-compiler/)
 - Typesafe Scala.js
-  - [GitHub](https://github.com/stouma915/typesafe-scalajs)
+  - [GitHub](https://github.com/t-sasaki915/typesafe-scalajs)
 
 #### Links
 * [Twitter](https://twitter.com/net_tsasaki915)
