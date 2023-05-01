@@ -20,9 +20,9 @@ Languages: Japanese
 - Computer Science (especially Functional Programming, Type Theory, and Type Safety)
 
 #### Things I've Made
-- Minesweeper made with Functional Scala.js
-  - [Try it](https://t-sasaki915.github.io/minesweeper-scala/)
-  - [GitHub](https://github.com/t-sasaki915/minesweeper-scala/)
+- Minesweeper made with Elm
+  - [Try it](https://t-sasaki915.github.io/minesweeper-elm/)
+  - [GitHub](https://github.com/t-sasaki915/minesweeper-elm/)
 - Minesweeper made with TypeScript
   - [Try it](https://t-sasaki915.github.io/minesweeper/)
   - [GitHub](https://github.com/t-sasaki915/minesweeper/)
