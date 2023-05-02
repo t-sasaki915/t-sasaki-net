@@ -33,7 +33,7 @@ Languages: Japanese
   - [GitHub](https://github.com/t-sasaki915/typesafe-scalajs)
 
 #### Links
-* [Twitter](https://twitter.com/net_tsasaki915)
+* [Twitter](https://twitter.com/tsasaki915)
 * [GitHub](https://github.com/t-sasaki915)
 * [Steam](https://steamcommunity.com/profiles/76561199242758778)
 * [Central Repository](https://repo1.maven.org/maven2/net/st915/)
