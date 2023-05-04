@@ -18,6 +18,7 @@ Languages: Japanese
 - Mathematics (at high school)
 - Mathematics (especially Category Theory, λ-Calculus)
 - Computer Science (especially Functional Programming, Type Theory, and Type Safety)
+- English and Español
 
 #### Things I've Made
 - Minesweeper made with Elm
