@@ -40,4 +40,4 @@ Languages: Japanese
 
 My ThinkPad: ThinkPad P14s Gen 3
 <br>
-[See Home Network Diagram](/network-diagram)
+[Home Network Diagram](/network-diagram)
