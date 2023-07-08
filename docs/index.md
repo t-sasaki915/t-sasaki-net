@@ -11,7 +11,7 @@ Lives in: Sendai, Miyagi, Japan<br>
 Languages: Japanese
 
 #### Apex Legends
-Started: Season 12
+Started: Season 12<br>
 Main: Pathfinder, R-99<br>
 Device: PC, Mouse & Keyboard<br>
 Highest Rank: Platinum 3 (Season 16)<br>
