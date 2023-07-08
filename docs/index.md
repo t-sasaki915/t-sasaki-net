@@ -10,6 +10,14 @@ Birthday: 15 September 2006<br>
 Lives in: Sendai, Miyagi, Japan<br>
 Languages: Japanese
 
+#### Apex Legends
+Main Legend: Pathfinder<br>
+Main Weapon: R-99<br>
+Device: PC, Mouse & Keyboard<br>
+Highest Rank: Platinum 3 (Season 16)<br>
+Highest Kills: 22 (Pathfinder)<br>
+Highest Damage: 4009 (Pathfinder)
+
 #### Links
 * [Twitter](https://twitter.com/tsasaki915)
 * [GitHub](https://github.com/t-sasaki915)
