@@ -11,8 +11,8 @@ Lives in: Sendai, Miyagi, Japan<br>
 Languages: Japanese
 
 #### Apex Legends
-Main Legend: Pathfinder<br>
-Main Weapon: R-99<br>
+Started: Season 12
+Main: Pathfinder, R-99<br>
 Device: PC, Mouse & Keyboard<br>
 Highest Rank: Platinum 3 (Season 16)<br>
 Highest Kills: 22 (Pathfinder)<br>
