@@ -14,6 +14,7 @@ Languages: Japanese
 Started: May 2022 (Season 12)<br>
 Main: Pathfinder, R-99<br>
 Device: PC, Mouse & Keyboard<br>
+Sensitivity: DPI 1600, In game 0.55<br>
 Highest Rank: Platinum 3 (Season 16)<br>
 Highest Kills: 22 (Pathfinder)<br>
 Highest Damage: 4009 (Pathfinder)
