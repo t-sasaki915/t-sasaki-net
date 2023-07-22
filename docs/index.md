@@ -8,16 +8,7 @@ title: About Me
 Name: Sasaki Touma<br>
 Birthday: 15 September 2006<br>
 Lives in: Sendai, Miyagi, Japan<br>
-Languages: Japanese
-
-#### Apex Legends
-Started: May 2022 (Season 12)<br>
-Main: Pathfinder, R-99<br>
-Device: PC, Mouse & Keyboard<br>
-Sensitivity: DPI 1600, In game 0.55<br>
-Highest Rank: Platinum 3 (Season 16)<br>
-Highest Kills: 22 (Pathfinder)<br>
-Highest Damage: 4009 (Pathfinder)
+Language: Japanese
 
 #### Links
 * [Twitter](https://twitter.com/tsasaki915)
